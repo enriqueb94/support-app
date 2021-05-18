@@ -1,8 +1,16 @@
 # Formulario MEAN Stack
 
-### Instalación 🔧
+### Pre-requisitos 📋
+
+_Que cosas necesitas para instalar el software_
 
 ```
-Ejecutar comando "npm install" dentro de los directorios "backend" y "support-contact-app" para instalar los paquetes 
-y dependencias necesarios para ejecturar la app
+NodeJS
+
+### Instalación 🔧
+
+_Dentro de los directorios "backend" Y "support-contact-app" ejectutar el siguiente comando con el fin de instalar las dependencias del proyecto_
+
+```
+npm install
 ```
