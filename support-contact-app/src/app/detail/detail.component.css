@@ -1,0 +1,29 @@
+.container{
+    padding-top: 3rem;
+}
+
+.detalles{
+   
+    font-size: 14px;
+    font-family: 'poppins-extra-light';
+    padding-bottom: 3rem;
+}
+
+.detalles ul.info{
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-left: 0;
+}
+
+.detalles ul.info li{
+    padding-right: 2em;
+    padding-left: 0px;
+}
+
+@media (max-width:991px){
+    .detalles ul.info{
+        flex-direction: column;
+    }
+}

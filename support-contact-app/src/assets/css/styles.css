@@ -1,0 +1,75 @@
+/* estilos globales */
+
+*{
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'poppins';
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'poppins-bold';
+    src: url('../fonts/Poppins-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'poppins-extra-bold';
+    src: url('../fonts/Poppins-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: 'poppins-extra-light';
+    src: url('../fonts/Poppins-ExtraLight.ttf');
+}
+@font-face {
+    font-family: 'poppins-light';
+    src: url('../fonts/Poppins-Light.ttf');
+}
+
+body{
+    font-family: 'poppins';
+    background: #F0EDED;
+}
+
+body h1{
+    font-family: 'poppins-bold';
+}
+
+.relative{
+    position: relative !important;
+    z-index: 1;
+}
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.error{
+	background: red;
+	color: white;
+    font-size: 8px;
+}
+
+.message{
+	width : 50%;
+	padding: 5px;
+	border: 1px solid #eee;
+}
+
+.success{
+	background: green;
+	color: white;
+    width: 100%;
+}
+
+.message a{
+	color: white;
+}
+
+.fail{
+	background: red;
+	color: white;
+}

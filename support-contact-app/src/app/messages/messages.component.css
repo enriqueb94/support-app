@@ -1,0 +1,60 @@
+.container{
+    padding-top: 3rem;
+}
+
+.container h2{
+    font-family: 'poppins-bold';
+}
+
+.contact{
+    position: relative;
+    display: flex;
+    padding: 2rem;
+    padding-left: 0;
+}
+
+.contact .card{
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 13px;
+}
+
+.contact .card h5{
+    color: #454E9E;
+    font-family: 'poppins-bold';
+}
+
+.contact ul{
+    list-style: none;
+}
+
+.contact ul li a{
+    text-decoration: none;
+    font-size: 13px;
+    color: #454E9E;
+}
+
+.contact ul li.link{
+    display: flex;
+    justify-content: flex-end;
+}
+
+@media (max-width:991px){
+    .contact{
+        margin-left: 20px;
+        flex-wrap: wrap;
+    }
+
+    .content .card{
+        position: relative;
+        width: 100%;
+    }
+}
+
+@media (max-width: 767px){
+    .contact{
+        width: 100%;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+}

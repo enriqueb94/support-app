@@ -1,0 +1,32 @@
+header {
+    min-height: 15vh;
+    margin: 0px auto;
+    font-family: poppins;
+    padding-top: 1.5rem;
+    position: relative;
+    background-color: #454E9E;
+}
+
+.navbar{
+    position: relative;
+    z-index: 3;
+}
+
+.navbar-nav {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-family: 'poppins-extra-bold';
+    color: white;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    color: white;
+}

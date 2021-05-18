@@ -1,0 +1,18 @@
+<div class="container">
+    <h2>Mensajes</h2>
+        <div class="contact">
+            <div *ngFor="let contact of contacts">
+                    <div class="card">
+                        <img class="card-img-top" src="../../assets/images/indice.svg" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">{{contact.category}}</h5>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">{{contact.name}}</li>
+                            <li class="list-group-item">{{contact.companyName}}</li>
+                            <li class="list-group-item link"><a class="link-contact" [routerLink]="['/message',contact._id]">Ver mensaje</a></li>
+                        </ul>
+                    </div>
+            </div>
+        </div>
+</div>
