@@ -5,7 +5,7 @@ ejecutar comando "npm install" dentro de los directorios "backend" y "support-co
 
 tecnologias usadas.
 
-MongoDB
+MongoDB <br>
 NodeJS
 Express
 Angular 11
