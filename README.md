@@ -1,9 +1,8 @@
-# support-app
 <h1>formulario MEAN STACK<h1>
 
 ejecutar comando "npm install" dentro de los directorios "backend" y "support-contact-app" para instalar los paquetes y dependencias necesarios para ejecturar la app
 
-  <H3>tecnologias usadas.</H3>
+tecnologias usadas
 <ul>
   <li>MongoDB</li>
   <li>NodeJS</li>
