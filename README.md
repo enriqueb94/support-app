@@ -1,6 +1,6 @@
 <h1>Formulario MEAN STACK<h1>
 
-<p>Ejecutar comando "npm install" dentro de los directorios "backend" y "support-contact-app" para instalar los paquetes y dependencias necesarios para ejecturar la app</p>
+<p style="font-size:12px;">Ejecutar comando "npm install" dentro de los directorios "backend" y "support-contact-app" para instalar los paquetes y dependencias necesarios para ejecturar la app</p>
 
 tecnologias usadas
 <ul>
