@@ -2,10 +2,13 @@
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software_
+_Que cosas necesitas para instalar el software :_
+
+_NodeJS_
 
 ```
-NodeJS
+https://nodejs.org/es/
+````
 
 ### Instalación 🔧
 
