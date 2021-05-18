@@ -2,12 +2,14 @@
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software :_
+_Que cosas necesitas para probar el software :_
 
 _NodeJS_
+_MongoDB_
 
 ```
 https://nodejs.org/es/
+https://www.mongodb.com/es
 ````
 
 ### Instalación 🔧
