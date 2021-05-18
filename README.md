@@ -4,12 +4,10 @@
 
 _Que cosas necesitas para probar el software :_
 
-_NodeJS_
-_MongoDB_
+_NodeJS (para poder usar posteriormente el comando "npm")_
 
 ```
 https://nodejs.org/es/
-https://www.mongodb.com/es
 ````
 
 ### Instalación 🔧
